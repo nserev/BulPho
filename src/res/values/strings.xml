@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BulPho</string>
+    <string name="keyboard_layouts_label">Nick\'s Extra Layouts</string>
+    <string name="keyboard_layout_bulgarian_phonetic_label">Bulgarian Phonetic</string>
+
+</resources>
